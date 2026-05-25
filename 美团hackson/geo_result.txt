@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\temp\test_geo.py", line 9, in main
+    loc, addr = await geocode("朝阳大悦城")
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\美团hackson\utils\geo.py", line 33, in geocode
+    raise ValueError(f"地理编码失败: {data.get('info', '未知错误')}, address={address}")
+ValueError: 地理编码失败: USERKEY_PLAT_NOMATCH, address=朝阳大悦城

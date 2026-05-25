@@ -1,0 +1,98 @@
+[
+  {
+    "id": "a001",
+    "name": "贝乐堡儿童乐园",
+    "description": "大型室内儿童乐园，滑梯、海洋球、攀爬架，适合3-10岁",
+    "tags": ["kids_playground", "indoor", "family_friendly", "kids"],
+    "price_level": "medium",
+    "price_amount": 120.0,
+    "distance_km": 3.0,
+    "duration_hours": 2.5,
+    "location": "朝阳区青年路10号",
+    "max_people": 100
+  },
+  {
+    "id": "a002",
+    "name": "朝阳公园",
+    "description": "市区大型公园，可划船、野餐、放风筝",
+    "tags": ["park", "outdoor", "family_friendly", "free"],
+    "price_level": "low",
+    "price_amount": 0.0,
+    "distance_km": 2.0,
+    "duration_hours": 2.0,
+    "location": "朝阳区朝阳公园南路1号",
+    "max_people": 999
+  },
+  {
+    "id": "a003",
+    "name": "当代艺术馆 -「未来城市」展览",
+    "description": "沉浸式数字艺术展，适合拍照打卡，展期最后一周",
+    "tags": ["exhibition", "indoor", "interactive", "art", "instagrammable"],
+    "price_level": "medium",
+    "price_amount": 88.0,
+    "distance_km": 5.5,
+    "duration_hours": 1.5,
+    "location": "朝阳区798艺术区",
+    "max_people": 200
+  },
+  {
+    "id": "a004",
+    "name": "南锣鼓巷 Citywalk",
+    "description": "老北京胡同漫步，沿途小吃、文创小店",
+    "tags": ["citywalk", "outdoor", "food_street", "shopping", "free"],
+    "price_level": "low",
+    "price_amount": 0.0,
+    "distance_km": 4.0,
+    "duration_hours": 2.0,
+    "location": "东城区南锣鼓巷",
+    "max_people": 999
+  },
+  {
+    "id": "a005",
+    "name": "密室逃脱 - 古堡迷踪",
+    "description": "4-6人合作解谜，恐怖主题，时长90分钟",
+    "tags": ["interactive", "indoor", "group_activity", "escape_room"],
+    "price_level": "medium",
+    "price_amount": 98.0,
+    "distance_km": 2.5,
+    "duration_hours": 2.0,
+    "location": "海淀区五道口15号",
+    "max_people": 6
+  },
+  {
+    "id": "a006",
+    "name": "亲子烘焙工坊",
+    "description": "家长和孩子一起做蛋糕，成品可带走，时长2小时",
+    "tags": ["kids", "family_friendly", "indoor", "diy", "cooking"],
+    "price_level": "medium",
+    "price_amount": 150.0,
+    "distance_km": 1.8,
+    "duration_hours": 2.0,
+    "location": "朝阳区双井路3号",
+    "max_people": 20
+  },
+  {
+    "id": "a007",
+    "name": "水立方嬉水乐园",
+    "description": "室内水上乐园，造浪池、水滑梯，亲子友好",
+    "tags": ["kids_playground", "indoor", "family_friendly", "water"],
+    "price_level": "high",
+    "price_amount": 180.0,
+    "distance_km": 8.0,
+    "duration_hours": 3.0,
+    "location": "朝阳区天辰东路11号",
+    "max_people": 300
+  },
+  {
+    "id": "a008",
+    "name": "剧本杀 - 大唐风云",
+    "description": "沉浸式古风剧本杀，6人起开，时长3小时",
+    "tags": ["interactive", "indoor", "group_activity", "roleplay"],
+    "price_level": "high",
+    "price_amount": 168.0,
+    "distance_km": 3.5,
+    "duration_hours": 3.0,
+    "location": "朝阳区望京SOHO",
+    "max_people": 8
+  }
+]

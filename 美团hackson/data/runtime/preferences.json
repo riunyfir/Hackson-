@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "scenario_tags": [
+        "family",
+        "child_age_5"
+      ],
+      "chosen_restaurant_tags": [],
+      "chosen_activity_tags": [],
+      "rejected_items": [],
+      "budget_level": "medium",
+      "timestamp": "2026-05-24T17:23:39.084066"
+    },
+    {
+      "scenario_tags": [
+        "family",
+        "child_age_5"
+      ],
+      "chosen_restaurant_tags": [],
+      "chosen_activity_tags": [],
+      "rejected_items": [],
+      "budget_level": "medium",
+      "timestamp": "2026-05-24T17:33:38.570766"
+    },
+    {
+      "scenario_tags": [
+        "friends"
+      ],
+      "chosen_restaurant_tags": [],
+      "chosen_activity_tags": [],
+      "rejected_items": [],
+      "budget_level": "medium",
+      "timestamp": "2026-05-24T17:39:17.000631"
+    },
+    {
+      "scenario_tags": [
+        "couple"
+      ],
+      "chosen_restaurant_tags": [],
+      "chosen_activity_tags": [],
+      "rejected_items": [],
+      "budget_level": "medium",
+      "timestamp": "2026-05-24T17:42:05.340715"
+    },
+    {
+      "scenario_tags": [
+        "family",
+        "child_age_5"
+      ],
+      "chosen_restaurant_tags": [],
+      "chosen_activity_tags": [],
+      "rejected_items": [],
+      "budget_level": "medium",
+      "timestamp": "2026-05-24T18:40:14.683364"
+    },
+    {
+      "scenario_tags": [
+        "family",
+        "child_age_5"
+      ],
+      "chosen_restaurant_tags": [],
+      "chosen_activity_tags": [],
+      "rejected_items": [],
+      "budget_level": "medium",
+      "timestamp": "2026-05-24T19:15:54.344202"
+    },
+    {
+      "scenario_tags": [
+        "family",
+        "child_age_5",
+        "diet_light"
+      ],
+      "chosen_restaurant_tags": [],
+      "chosen_activity_tags": [],
+      "rejected_items": [],
+      "budget_level": "medium",
+      "timestamp": "2026-05-24T19:19:24.945354"
+    },
+    {
+      "scenario_tags": [
+        "family"
+      ],
+      "chosen_restaurant_tags": [],
+      "chosen_activity_tags": [],
+      "rejected_items": [],
+      "budget_level": "medium",
+      "timestamp": "2026-05-24T22:25:47.760799"
+    },
+    {
+      "scenario_tags": [
+        "family",
+        "child_age_5"
+      ],
+      "chosen_restaurant_tags": [],
+      "chosen_activity_tags": [],
+      "rejected_items": [],
+      "budget_level": "medium",
+      "timestamp": "2026-05-24T22:43:47.172481"
+    },
+    {
+      "scenario_tags": [
+        "couple",
+        "budget_low"
+      ],
+      "chosen_restaurant_tags": [],
+      "chosen_activity_tags": [],
+      "rejected_items": [],
+      "budget_level": "medium",
+      "timestamp": "2026-05-24T23:35:12.521020"
+    },
+    {
+      "scenario_tags": [
+        "couple",
+        "quiet"
+      ],
+      "chosen_restaurant_tags": [],
+      "chosen_activity_tags": [],
+      "rejected_items": [],
+      "budget_level": "medium",
+      "timestamp": "2026-05-25T00:39:22.812018"
+    }
+  ]
+}

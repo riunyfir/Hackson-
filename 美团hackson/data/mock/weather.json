@@ -1,0 +1,42 @@
+[
+  {
+    "id": "w001",
+    "condition": "晴天",
+    "temperature": 26.0,
+    "humidity": 45,
+    "wind": "微风",
+    "outdoor_suitable": true,
+    "tags": ["sunny", "outdoor_ok"],
+    "description": "晴朗，气温26°C，适合户外活动"
+  },
+  {
+    "id": "w002",
+    "condition": "多云",
+    "temperature": 22.0,
+    "humidity": 55,
+    "wind": "3级",
+    "outdoor_suitable": true,
+    "tags": ["cloudy", "outdoor_ok"],
+    "description": "多云，气温22°C，适合户外活动"
+  },
+  {
+    "id": "w003",
+    "condition": "小雨",
+    "temperature": 18.0,
+    "humidity": 80,
+    "wind": "2级",
+    "outdoor_suitable": false,
+    "tags": ["rain", "indoor_preferred"],
+    "description": "小雨，气温18°C，建议选择室内活动"
+  },
+  {
+    "id": "w004",
+    "condition": "雷阵雨",
+    "temperature": 20.0,
+    "humidity": 85,
+    "wind": "4级",
+    "outdoor_suitable": false,
+    "tags": ["storm", "indoor_only"],
+    "description": "雷阵雨，气温20°C，强烈建议室内活动"
+  }
+]

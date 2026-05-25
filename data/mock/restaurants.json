@@ -1,0 +1,98 @@
+[
+  {
+    "id": "r001",
+    "name": "小鹿亲子餐厅",
+    "description": "设有儿童游乐区，提供儿童套餐，环境温馨",
+    "tags": ["kid_friendly", "family_style", "kids_menu", "casual_dining"],
+    "price_level": "medium",
+    "price_amount": 80.0,
+    "distance_km": 3.5,
+    "max_people": 10,
+    "location": "朝阳区大望路88号",
+    "cuisine": "中西融合"
+  },
+  {
+    "id": "r002",
+    "name": "轻食主义",
+    "description": "主打低卡健康餐，所有菜品标注卡路里",
+    "tags": ["healthy", "diet_light", "casual_dining", "organic"],
+    "price_level": "medium",
+    "price_amount": 65.0,
+    "distance_km": 2.8,
+    "max_people": 8,
+    "location": "朝阳区光华路15号",
+    "cuisine": "轻食沙拉"
+  },
+  {
+    "id": "r003",
+    "name": "聚点烤吧",
+    "description": "适合朋友聚餐的烧烤店，氛围热闹，有包间",
+    "tags": ["group_dining", "social", "bbq", "casual_dining"],
+    "price_level": "medium",
+    "price_amount": 90.0,
+    "distance_km": 4.2,
+    "max_people": 12,
+    "location": "海淀区中关村大街22号",
+    "cuisine": "烧烤"
+  },
+  {
+    "id": "r004",
+    "name": "绿野仙踪素食馆",
+    "description": "精致素食餐厅，环境安静雅致",
+    "tags": ["healthy", "diet_light", "vegetarian", "organic"],
+    "price_level": "high",
+    "price_amount": 120.0,
+    "distance_km": 5.0,
+    "max_people": 6,
+    "location": "东城区鼓楼东大街3号",
+    "cuisine": "素食"
+  },
+  {
+    "id": "r005",
+    "name": "火锅英雄",
+    "description": "网红火锅店，多种锅底，适合大规模聚餐",
+    "tags": ["group_dining", "social", "spicy_food", "popular"],
+    "price_level": "medium",
+    "price_amount": 100.0,
+    "distance_km": 1.5,
+    "max_people": 20,
+    "location": "朝阳区三里屯路11号",
+    "cuisine": "火锅"
+  },
+  {
+    "id": "r006",
+    "name": "小熊乐园主题餐厅",
+    "description": "卡通主题餐厅，提供儿童表演和互动游戏",
+    "tags": ["kid_friendly", "family_style", "kids_menu", "entertainment"],
+    "price_level": "high",
+    "price_amount": 130.0,
+    "distance_km": 7.0,
+    "max_people": 8,
+    "location": "丰台区方庄路6号",
+    "cuisine": "西餐"
+  },
+  {
+    "id": "r007",
+    "name": "香满楼川菜",
+    "description": "正宗川菜，麻辣鲜香，适合嗜辣人群",
+    "tags": ["spicy_food", "group_dining", "casual_dining"],
+    "price_level": "low",
+    "price_amount": 55.0,
+    "distance_km": 2.0,
+    "max_people": 10,
+    "location": "朝阳区望京街5号",
+    "cuisine": "川菜"
+  },
+  {
+    "id": "r008",
+    "name": "海风日料",
+    "description": "新鲜刺身和寿司，环境安静适合家庭",
+    "tags": ["kid_friendly", "healthy", "family_style", "japanese"],
+    "price_level": "high",
+    "price_amount": 150.0,
+    "distance_km": 6.0,
+    "max_people": 6,
+    "location": "西城区金融街1号",
+    "cuisine": "日料"
+  }
+]

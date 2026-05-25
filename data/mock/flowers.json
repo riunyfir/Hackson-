@@ -1,0 +1,29 @@
+[
+  {
+    "id": "f001",
+    "name": "浪漫玫瑰 bouquet",
+    "description": "11支红玫瑰，搭配满天星",
+    "tags": ["celebration", "romance", "anniversary"],
+    "price_level": "medium",
+    "price_amount": 199.0,
+    "delivery_time": "2小时内送达"
+  },
+  {
+    "id": "f002",
+    "name": "温馨康乃馨花篮",
+    "description": "粉色康乃馨花篮，适合家庭庆祝",
+    "tags": ["celebration", "family", "birthday"],
+    "price_level": "medium",
+    "price_amount": 168.0,
+    "delivery_time": "2小时内送达"
+  },
+  {
+    "id": "f003",
+    "name": "精致蛋糕组合",
+    "description": "6寸鲜奶蛋糕+手写祝福卡",
+    "tags": ["celebration", "birthday", "party"],
+    "price_level": "medium",
+    "price_amount": 238.0,
+    "delivery_time": "3小时内送达"
+  }
+]

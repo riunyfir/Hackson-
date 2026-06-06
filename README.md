@@ -183,13 +183,6 @@ make coverage
 
 ## 部署
 
-### 生产环境建议
-1. **替换Mock服务**: 将 `mock_services/` 替换为真实API调用
-2. **数据库持久化**: 将 `MemoryAgent` 的JSON存储改为数据库
-3. **异步任务队列**: 将 `ExecutorAgent` 的执行改为任务队列
-4. **监控告警**: 添加日志监控、性能指标、错误告警
-5. **API网关**: 提供RESTful API接口
-
 ### Docker部署
 ```dockerfile
 FROM python:3.11-slim
